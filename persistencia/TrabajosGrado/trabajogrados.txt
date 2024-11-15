@@ -1,0 +1,10 @@
+Gabriel García Márquez;Mercedes Barcha;1967-05-30;Cien años de soledad;Una saga familiar que narra la historia de los Buendía en el ficticio pueblo de Macondo, mezclando realismo mágico con eventos históricos colombianos.;
+Mario Vargas Llosa;Julia Urquidi;1963-10-15;La ciudad y los perros;Novela que retrata la vida en un colegio militar, explorando temas de violencia, jerarquía y masculinidad.;
+Jorge Luis Borges;Adolfo Bioy Casares;1946-03-22;Seis problemas para don Isidro Parodi;Colección de cuentos policiales escritos en colaboración, mezclando humor y misterio.;
+Julio Cortázar;Carol Dunlop;1983-05-18;Los autonautas de la cosmopista;Relato de un viaje por la autopista París-Marsella, mezclando diario de viaje con experimentación literaria.;
+Pablo Neruda;Matilde Urrutia;1954-08-09;Los versos del capitán;Colección de poemas de amor inspirados en su relación, combinando pasión y naturaleza.;
+Octavio Paz;Elena Garro;1950-06-15;El laberinto de la libertad;Ensayo sobre la identidad latinoamericana y su relación con la modernidad, escrito en colaboración.;
+Carlos Fuentes;Silvia Lemus;1975-09-28;Terra Nostra;Novela histórica que entrelaza diferentes períodos de la historia mexicana y española.;
+Juan Rulfo;Clara Aparicio;1955-04-12;Pedro Páramo;Historia de un hijo en busca de su padre en un pueblo fantasma, mezclando realismo mágico con tradición oral.;
+Isabel Allende;Carmen Balcells;1982-01-22;La casa de los espíritus;Crónica familiar que mezcla elementos políticos y sobrenaturales en Chile, siguiendo a la familia Trueba.;
+Mario Benedetti;Luz López;1960-11-30;La tregua;Historia de un viudo próximo a jubilarse que encuentra un nuevo amor, narrada a través de su diario personal.;
